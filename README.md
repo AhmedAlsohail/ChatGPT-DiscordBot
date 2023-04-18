@@ -7,7 +7,7 @@ This bot can help to use OpenAI ChatGPT inside Discord rooms, by mentioning it w
 You must set up your own bot and OpenAI Account by adding ***Discord Token & ChatGPT API*** inside the .env file
 
 # History Log
-Any question asked will be save in the following foramt:
+Any question asked will be save in the following foramt, inside a local text file:
 
 ```
 2023-04-18 02:26:24
