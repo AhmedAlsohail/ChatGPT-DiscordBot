@@ -25,4 +25,6 @@ GPT:
 5. Arizona Sunshine.
 ```
 
-This will help to not lose the questions & can help the bot to remember the previous questions when restarted (not yet implemented).
+The History Log can help in:
+- Track & Not lose the questions asked through your bot.
+- Can help the bot to remember the previous questions when restarted (not yet implemented).
